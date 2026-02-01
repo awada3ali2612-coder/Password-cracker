@@ -3,6 +3,7 @@
 🔐 Password-Cracker
 Password-Cracker is an advanced framework designed for password strength evaluation and security pattern analysis across different environments.
 The tool is built with a professional structure that focuses on realistic process simulation, staged execution, and detailed terminal output that reflects modern analysis workflows.
+
 ✨ Key Features:
 Advanced multi-stage analysis engine
 Realistic simulation of security and verification processes
@@ -10,12 +11,15 @@ Structured and clean terminal interface
 Gradual execution flow for better process visibility
 Optimized for Linux and Termux environments
 Modular and extensible codebase
+
 🎯 Purpose:
 The goal of this tool is to provide a controlled environment for understanding password behavior, evaluating protection mechanisms, and analyzing potential weaknesses in a structured technical workflow.
+
 ⚙️ Environment:
 Python 3
 Termux / Linux
 No complex configuration required at runtime
+
 ⚠️ Disclaimer
 This project is intended for educational and research purposes only.
 The developer assumes no responsibility for misuse, illegal activities, or any damage resulting from the use of this tool.
