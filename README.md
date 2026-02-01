@@ -11,4 +11,4 @@ git clone https://github.com/awada3ali2612-coder/Password-cracker.git
 cd Password-cracker
 python Password-cracker.py
 
-Note: This is a demo tool. No real hacking involved.
+
