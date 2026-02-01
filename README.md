@@ -1,12 +1,12 @@
-# Password-cracker (Demo)
+# Password-cracker
 
-Fake Instagram hacking simulation tool for videos and educational content.
+Fake Instagram password cracking tool for demo and fun purposes only.
 
-## Features
+## How to use
 
-- Fake password cracking simulation
-- Realistic terminal style
-- Letter-by-letter guessing
-- Demo only (no real hacking)
+```bash
+git clone https://github.com/awada3ali2612-coder/Password-cracker.git
+cd Password-cracker
+python Password-cracker.py
 
-## Usage
+Note: This is a demo tool. No real hacking involved.
