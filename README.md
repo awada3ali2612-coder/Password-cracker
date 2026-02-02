@@ -25,7 +25,7 @@ This project is intended for educational and research purposes only.
 The developer assumes no responsibility for misuse, illegal activities, or any damage resulting from the use of this tool.
 Users are fully responsible for ensuring compliance with all applicable laws and regulations.
 
-## How to use
+# How to use
 
 ```bash
 pkg update
@@ -34,7 +34,7 @@ git clone https://github.com/awada3ali2612-coder/Password-cracker.git
 cd Password-cracker
 python Password-cracker.py
 
-## Kali Linux Installation
+# Kali Linux Installation
 
 ```bash
 sudo apt update && sudo apt upgrade -y
