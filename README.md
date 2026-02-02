@@ -36,10 +36,10 @@ python Password-cracker.py
 
 ## Installation (kali)
 
-```bash
 sudo apt update && sudo apt upgrade -y
 sudo apt install git python3 python3-pip -y
 git clone https://github.com/awada3ali2612-coder/Password-cracker.git
 cd Password-cracker
 pip3 install -r requirements.txt
 python3 Password-cracker.py
+
